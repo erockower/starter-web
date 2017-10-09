@@ -13,5 +13,7 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos
 
 ## How to Contribute
+   more blah blah
+   modified in different stages... some in staging area, some in 'index'?
 
 
